@@ -1,3 +1,4 @@
+# Session 2
 F_name = input("Enter your first name: ")
 L_name = input("Enter your last name: ")
 age = int(input("Enter your age: "))
